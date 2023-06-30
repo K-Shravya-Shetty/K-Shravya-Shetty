@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm K. Shravya Shetty</h1>
 <h3 align="center">Computer Science and Engineering Student</h3>
 <img align="right" alt="cute girl coding" width="400" src=https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif>
+<img align="right" alt="anime girl codingh" width="200" src=https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-shravya-shetty&label=Profile%20views&color=0e75b6&style=flat" alt="k-shravya-shetty" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@19sb610" target="blank"><img src="https://img.shields.io/twitter/follow/@19sb610?logo=twitter&style=for-the-badge" alt="@19sb610" /></a> </p>
